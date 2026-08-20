@@ -1,0 +1,17 @@
+venv/
+dataset/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+.env
+.env.*
+*.pkl
+*.joblib
+*.h5
+*.keras
+data/*.csv
+*.log
+.DS_Store
+Thumbs.db
