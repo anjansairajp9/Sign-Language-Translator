@@ -1,5 +1,8 @@
 venv/
 dataset/
+dataset_backup/
+dataset_new_backup/
+models_backup/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -12,6 +15,7 @@ __pycache__/
 *.h5
 *.keras
 data/*.csv
+models/*.task
 *.log
 .DS_Store
 Thumbs.db
